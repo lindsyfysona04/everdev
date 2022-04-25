@@ -1,0 +1,9 @@
+*
+!src/**/*
+!dist/**/*
+dist/**/*.test.*
+!contracts/**/*
+!package.json
+!README.md
+**/*.map
+src/
